@@ -1,2 +1,3 @@
 # automotivos
-Gabriel Altino Francisco 
+Gabriel Altino Francisco
+João Pedro da Silva Mangerona
