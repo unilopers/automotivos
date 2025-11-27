@@ -1,0 +1,10 @@
+INSERT INTO Fornecedor (IDfornecedor, nomeFornecedor) VALUES (1, 'Fornecedor X');
+INSERT INTO Funcionario (IDfuncionario, nomeFuncionario, cargoFuncionario, salarioFuncionario) VALUES (1, 'Funcionario 1', 'Vendedor', 2500.00);
+INSERT INTO Cliente (IDcliente, Nome, Telefone, Endereco, Anotacao) VALUES (1, 'Cliente 1', '11-99999-9999', 'Rua A', 'VIP');
+INSERT INTO Produto (SKUproduto, IDfornecedor, nomeProduto, codigoBarra, precoProduto) VALUES ('OLEO-5W30', 1, 'Óleo 5W30', '000123', 50.00);
+INSERT INTO Produto (SKUproduto, IDfornecedor, nomeProduto, codigoBarra, precoProduto) VALUES ('CERA-LIQ', 1, 'Cera Líquida', '000456', 30.00);
+INSERT INTO Fornecedor (IDfornecedor, nomeFornecedor) VALUES (2, 'Fornecedor Y');
+INSERT INTO Funcionario (IDfuncionario, nomeFuncionario, cargoFuncionario, salarioFuncionario) VALUES (2, 'Funcionario 2', 'Atendente', 2200.00);
+INSERT INTO Cliente (IDcliente, Nome, Telefone, Endereco, Anotacao) VALUES (2, 'Cliente 2', '21-97777-6666', 'Rua B', 'Novo');
+INSERT INTO Produto (SKUproduto, IDfornecedor, nomeProduto, codigoBarra, precoProduto) VALUES ('SHAMPOO-CAR', 1, 'Shampoo Automotivo', '0012345', 25.00);
+INSERT INTO Produto (SKUproduto, IDfornecedor, nomeProduto, codigoBarra, precoProduto) VALUES ('ESPONJA', 2, 'Esponja Automotiva', '009999', 10.00);
